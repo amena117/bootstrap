@@ -127,6 +127,7 @@ body {
 .form-group {
     margin-bottom: 5px;;
 }
+
 .page-footer {
     background-color: #222;
     color: #ccc;
@@ -137,3 +138,28 @@ body {
     padding: 40px 0;
  }
  
+
+
+.background {
+	background: #dedec8;
+	padding: 4em 0;
+}
+.team {
+	color: #5e5e55;
+	padding: 0 180px;
+}
+.team .card-columns {
+	-webkit-column-count: 4;
+	-moz-column-count: 4;
+	column-count: 4;
+}
+.team .card {
+	background:none;
+	border: none;
+}
+.team .card-title {
+	font-size: 1.3rem;
+	margin-bottom: 0;
+	text-transform: uppercase;
+}
+
