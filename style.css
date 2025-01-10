@@ -6,6 +6,7 @@ body {
     background-position: center;
     position: relative;
     height: 100%;
+    width: 80%;
 }
 .navbar {
     background:#6ab446;
