@@ -7,9 +7,9 @@ body {
     background-image: url('images/download.jpeg');
     background-size: cover;
     background-position: center;
-    position: relative;
-    height: 80%;
-    width: 80%;
+    position: absolute;
+    height: 60%;
+    width: 60%;
 }
 .navbar {
     background:#6ab446;
@@ -29,14 +29,13 @@ body {
     justify-content: flex-end;
 }
 
-
 .overlay {
     position: absolute;
     min-height: 100%;
     min-width: 100%;
     left: 0;
     top: 0;
-    background: rgba(0, 0, 0, 0.6);
+    
 }
 
  
